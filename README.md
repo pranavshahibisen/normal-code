@@ -46,10 +46,17 @@ font-family:cursive;
     
   </ul>
   <div class="container-fluid">
-  <div id="home">
+  <div id="home"><!-- Home section starts-->
   <h1 title="my name" style=" color:white; backgrond-color:black; font-family:cursive ; text-align:center; ">PRANAV SHAHI BISEN</h1>
   <p>
-    hello guys this is Pranav Shahi Bisen and i am a student of bcom(hons) in jkbs .  
+    hello guys this is Pranav Shahi Bisen and i am a student of bcom(hons) in jkbs .this is normal code and i have no fucks to give.  
+    </p>
+  </div>
+  <div id=contact><!--Contact section starts-->
+  <p style="background-color:grey; color:black;">
+    <q><blockquote> Contact krke kya kroge</blockquote></q><br>
+    <button type="button"><a href="https://www.facebook.com/pranav.shahi.12?ref=bookmarks">Facebook</a></button>
+      <button type="button"><a href="https://twitter.com/pranavshahi">Twitter</a></button>
     </p>
   </div>
   
