@@ -47,7 +47,7 @@ font-family:cursive;
   </ul>
   <div class="container-fluid">
   <div id="home"><!-- Home section starts-->
-  <h1 title="my name" style=" color:white; backgrond-color:black; font-family:cursive ; text-align:center; ">PRANAV SHAHI BISEN</h1>
+  <h1 title="my name" style="color:white; background-color:black; font-family:cursive ; text-align:center;">PRANAV SHAHI BISEN</h1>
   <p>
     hello guys this is Pranav Shahi Bisen and i am a student of bcom(hons) in jkbs .this is normal code and i have no fucks to give.  
     </p>
