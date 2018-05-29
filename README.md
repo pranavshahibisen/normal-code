@@ -46,13 +46,32 @@ font-family:cursive;
     
   </ul>
   <div class="container-fluid">
-  <div id="home">
-  <h1 title="my name" style=" color:white; backgrond-color:black; font-family:cursive ; text-align:center; ">PRANAV SHAHI BISEN</h1>
-  <p>
-    hello guys this is Pranav Shahi Bisen and i am a student of bcom(hons) in jkbs .  
+  <div id="home"><!-- Home section starts-->
+  <h1 title="my name" style="color:white; background-color:black; font-family:cursive ; text-align:center;">PRANAV SHAHI BISEN</h1>
+   < img src="https://scontent.fpat1-1.fna.fbcdn.net/v/t1.0-9/15492041_1536328679725496_1192267783164358280_n.jpg?_nc_cat=0&oh=c7b546395e9274079c16dc4a6b7fd246&oe=5BB82A86" style="width:200px; height:200px;">
+    <hr><p>
+    hello guys this is Pranav Shahi Bisen and i am a student of bcom(hons) in jkbs .this is normal code and i have no fucks to give.  
     </p>
   </div>
-  
+ <hr>
+ <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <div id=contact><!--Contact section starts-->
+  <p style="background-color:grey; color:black;">
+    <q><blockquote> Contact krke kya kroge</blockquote></q><br>
+    <button type="button"><a href="https://www.facebook.com/pranav.shahi.12?ref=bookmarks" target="_blank">Facebook</a></button>
+      <button type="button"><a href="https://twitter.com/pranavshahi" target="_blank">Twitter</a></button>
+    </p>
+  </div>
+  <hr>
+  <br>
+  <br>
+  <br>
   </div>
   </body>
   </html>
