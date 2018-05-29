@@ -55,8 +55,8 @@ font-family:cursive;
   <div id=contact><!--Contact section starts-->
   <p style="background-color:grey; color:black;">
     <q><blockquote> Contact krke kya kroge</blockquote></q><br>
-    <button type="button"><a href="https://www.facebook.com/pranav.shahi.12?ref=bookmarks">Facebook</a></button>
-      <button type="button"><a href="https://twitter.com/pranavshahi">Twitter</a></button>
+    <button type="button"><a href="https://www.facebook.com/pranav.shahi.12?ref=bookmarks" target="_blank">Facebook</a></button>
+      <button type="button"><a href="https://twitter.com/pranavshahi" target="_blank">Twitter</a></button>
     </p>
   </div>
   
